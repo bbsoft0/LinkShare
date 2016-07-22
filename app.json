@@ -1,0 +1,12 @@
+{
+  "name": "LinkShare",
+  "description": "LinkShare App",
+  "repository": "https://github.com/bbsoft0",
+  "logo": "https://cdn.rawgit.com/blairanderson/rails-hackernews-reddit-producthunt-clone/master/public/linkshare.png",
+  "keywords": ["rails", "ruby-on-rails", "linkshare"],
+  "website": "http://www. /",
+  "env": {
+    "SITE_TITLE": "LinkShare",
+    "SEO_TITLE": "LinkShare Rails Github"
+  }
+}
