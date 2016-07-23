@@ -3,7 +3,7 @@
 Adding links and sharing them online.
 
 
-**[DEMO](https://linkshare.herokuapp.com/)**
+**[DEMO](https://linkshare0.herokuapp.com/)**
 
 
 User Stories:
